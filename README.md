@@ -2,8 +2,9 @@
 # NotificationFilter
 By Steven Nyman
 
-Automatically dismisses notiifcations containing the text "This site was updated in the background." on Windows 10 and Windows 11. These pointless notifications,
-which cannot be disabled without disabling all other notifications from your web browser, are shown when a web app receives a push message but does not show a notification.
+Automatically dismisses notiifcations containing the text "This site was updated in the background." from Chromium-based web browsers on Windows 10 and Windows 11. These
+pointless notifications, which cannot be disabled without disabling all other notifications from your web browser, are shown when a web app receives a push message but
+does not show a notification.
 
 This application has no user interface (except for an About screen) and quietly sits in your system tray.
 
